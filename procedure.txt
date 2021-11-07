@@ -1,0 +1,4 @@
+1. npm install
+
+open new tab 
+2. npm run start
