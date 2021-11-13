@@ -18,3 +18,13 @@ Truffle migrate –reset<br><br>
 //Run test on the smart contract<br><br>
 Truffle console<br><br>
 Truffle test<br><br>
+
+STEPS OF EXECUTION
+Once you start the server, the application launches on localhost:3000, asking the user to sign in with the blockchain wallet. In this case met mask<br><br>
+ ![image](https://user-images.githubusercontent.com/20139432/141600732-c1394ec5-daff-4de3-93da-7103bbeb7660.png)
+
+Clicking the choose file button opens a dialogue box which gives the user the chance to choose and upload to IPFS an image.<br><br>
+ ![image](https://user-images.githubusercontent.com/20139432/141600743-b30d347c-f388-44f1-b68a-1196d7d71f24.png)
+
+The image is uploaded and the description entered. The description and the image CID are stored in the blockchain in a persistent manner.<br><br>
+
