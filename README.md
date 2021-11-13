@@ -1,6 +1,5 @@
 # BabylonHackathon_IPFS-FILECOIN_CultureGram
-CultureGram Dapp
-
+CultureGram <br><br>
 Step 1: To build this application, we need first some dependencies.
 1. Node JS: 	This will enable the installation of all the packages of the computer and also enable the execution of the client side application. Node JS (https://nodejs.org/en/download/).
 2. Truffle framework: This will be used to create etherium smart contracts with the solidity programing language, write test against them and deploy the smart contracts to the blockchain. Install truffle from the command line using the following commands.
